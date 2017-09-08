@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O0 -g  -rdynamic CMakeFiles/dsp2-4.dir/src/wavelet.cpp.o CMakeFiles/dsp2-4.dir/src/main.cpp.o  -o dsp2-4 

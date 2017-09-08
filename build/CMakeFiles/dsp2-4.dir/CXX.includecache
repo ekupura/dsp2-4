@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/in9b/git/dsp2-4/src/main.cpp
+iostream
+-
+wavelet.hpp
+/home/in9b/git/dsp2-4/src/wavelet.hpp
+
+/home/in9b/git/dsp2-4/src/wavelet.cpp
+wavelet.hpp
+/home/in9b/git/dsp2-4/src/wavelet.hpp
+algorithm
+-
+
+/home/in9b/git/dsp2-4/src/wavelet.hpp
+vector
+-
+stack
+-
+tuple
+-
+cmath
+-
+iostream
+-
+
